@@ -1,0 +1,2376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Thach bich</name>
+	<Style id="line-FFFF00-1000-highlight">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-00FFFF-1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-00FFFF-1000-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-00FFFF-1000-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1899-0288D1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-FF0000-1000-normal">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="line-808080-1000-normal">
+		<LineStyle>
+			<color>ff808080</color>
+		</LineStyle>
+	</Style>
+	<Style id="line-808080-1000-highlight">
+		<LineStyle>
+			<color>ff808080</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-FF0000-1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FF0000-1000-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FF0000-1000-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-FF0000-1000-highlight">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-FFFF00-1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FFFF00-1000-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FFFF00-1000-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-00FFFF-1000-highlight">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-00FF00-1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-00FF00-1000-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-00FF00-1000-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-0288D1-highlight">
+		<IconStyle>
+			<Icon>
+				<href>D:/Downloads/images/icon-1.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="line-FFFF00-1000-normal">
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="line-FFFFFF-1000-normal">
+		<LineStyle>
+		</LineStyle>
+	</Style>
+	<Style id="line-00FFFF-1000-normal">
+		<LineStyle>
+			<color>ffffff00</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-FFFFFF-1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FFFFFF-1000-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FFFFFF-1000-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-00FF00-1000-normal">
+		<LineStyle>
+			<color>ff00ff00</color>
+		</LineStyle>
+	</Style>
+	<Style id="line-FFFFFF-1000-highlight">
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-0000FF-1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-0000FF-1000-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-0000FF-1000-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-0000FF-1000-normal">
+		<LineStyle>
+			<color>ffff0000</color>
+		</LineStyle>
+	</Style>
+	<Style id="line-0000FF-1000-highlight">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-00FF00-1000-highlight">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-808080-1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-808080-1000-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-808080-1000-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-0288D1-normal">
+		<IconStyle>
+			<Icon>
+				<href>D:/Downloads/images/icon-1.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Polily Features</name>
+		<Placemark>
+			<name>Polyline_000</name>
+			<description>DO</description>
+			<styleUrl>#line-FF0000-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782955,15.183069,0 108.783193,15.181954,0 108.783195,15.18195,0 108.783199,15.181947,0 108.783204,15.181947,0 108.783208,15.181949,0 108.78321,15.181953,0 108.783211,15.181958,0 108.782973,15.183073,0 108.782971,15.183077,0 108.782967,15.18308,0 108.782962,15.18308,0 108.782958,15.183078,0 108.782955,15.183074,0 108.782955,15.183069,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polygon_000</name>
+			<description>DO</description>
+			<styleUrl>#line-FF0000-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783254,15.181666,0 108.783475,15.180626,0 108.783477,15.180622,0 108.783481,15.18062,0 108.783486,15.180619,0 108.78349,15.180621,0 108.783493,15.180625,0 108.783493,15.18063,0 108.783272,15.181669,0 108.78327,15.181674,0 108.783266,15.181676,0 108.783261,15.181676,0 108.783257,15.181674,0 108.783254,15.18167,0 108.783254,15.181666,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polygon_000</name>
+			<description>DO</description>
+			<styleUrl>#line-FF0000-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781982,15.187641,0 108.782051,15.187315,0 108.782053,15.187311,0 108.782057,15.187308,0 108.782062,15.187308,0 108.782066,15.18731,0 108.782069,15.187314,0 108.782069,15.187319,0 108.782,15.187645,0 108.781998,15.187649,0 108.781994,15.187652,0 108.781989,15.187652,0 108.781985,15.18765,0 108.781982,15.187646,0 108.781982,15.187641,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_000</name>
+			<description>DO</description>
+			<styleUrl>#line-FF0000-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782423,15.185659,0 108.78242,15.185663,0 108.782416,15.185666,0 108.782412,15.185666,0 108.782407,15.185664,0 108.782405,15.18566,0 108.782404,15.185656,0 108.782605,15.184713,0 108.782607,15.184709,0 108.782611,15.184706,0 108.782616,15.184706,0 108.78262,15.184708,0 108.782623,15.184712,0 108.782623,15.184717,0 108.782423,15.185659,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_000</name>
+			<description>DO</description>
+			<styleUrl>#line-FF0000-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782158,15.186815,0 108.782356,15.185881,0 108.782358,15.185877,0 108.782363,15.185875,0 108.782367,15.185874,0 108.782372,15.185876,0 108.782374,15.18588,0 108.782375,15.185885,0 108.782176,15.186819,0 108.782174,15.186823,0 108.78217,15.186825,0 108.782165,15.186826,0 108.78216,15.186824,0 108.782158,15.18682,0 108.782158,15.186815,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_000</name>
+			<description>DO</description>
+			<styleUrl>#line-FF0000-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78127,15.191072,0 108.781268,15.191076,0 108.781264,15.191079,0 108.781259,15.191079,0 108.781255,15.191077,0 108.781252,15.191073,0 108.781252,15.191068,0 108.7819,15.188024,0 108.781902,15.18802,0 108.781906,15.188017,0 108.781911,15.188017,0 108.781915,15.188019,0 108.781918,15.188023,0 108.781918,15.188028,0 108.78127,15.191072,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_000</name>
+			<description>DO</description>
+			<styleUrl>#line-FF0000-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.77891,15.202069,0 108.78117,15.191451,0 108.781173,15.191447,0 108.781177,15.191444,0 108.781181,15.191444,0 108.781186,15.191446,0 108.781188,15.19145,0 108.781189,15.191455,0 108.778928,15.202072,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polygon_000</name>
+			<description>DO</description>
+			<styleUrl>#line-FF0000-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783599,15.180043,0 108.783632,15.179888,0 108.783645,15.179827,0 108.783771,15.179128,0 108.783859,15.178424,0 108.783909,15.177716,0 108.783921,15.177007,0 108.783922,15.177003,0 108.783925,15.176999,0 108.78393,15.176998,0 108.783934,15.176999,0 108.783938,15.177003,0 108.783939,15.177007,0 108.783927,15.177717,0 108.783877,15.178426,0 108.783789,15.179131,0 108.783663,15.17983,0 108.783651,15.179892,0 108.783618,15.180047,0 108.783615,15.180051,0 108.783611,15.180054,0 108.783607,15.180054,0 108.783602,15.180052,0 108.7836,15.180048,0 108.783599,15.180043,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.790201,15.194347,0 108.79006,15.195007,0 108.790058,15.195021,0 108.790058,15.195049,0 108.790065,15.195077,0 108.790077,15.195103,0 108.790094,15.195125,0 108.790116,15.195144,0 108.790141,15.195158,0 108.790169,15.195167,0 108.792296,15.195594,0 108.792325,15.195597,0 108.792355,15.195596,0 108.792383,15.195591,0 108.792411,15.195581,0 108.792436,15.195567,0 108.792459,15.19555,0 108.792479,15.195529,0 108.792495,15.195506,0 108.792508,15.19548,0 108.792516,15.195453,0 108.792541,15.195331,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.79241,15.195569,0 108.792423,15.195563,0 108.792446,15.195547,0 108.792467,15.195526,0 108.792484,15.195503,0 108.792497,15.195478,0 108.792505,15.195451,0 108.79253,15.195329,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.780506,15.193393,0 108.780551,15.193402,0 108.780579,15.19341,0 108.780604,15.193425,0 108.780626,15.193443,0 108.780643,15.193466,0 108.780655,15.193492,0 108.780661,15.19352,0 108.780661,15.193548,0 108.780659,15.193562,0 108.779649,15.198309,0 108.77964,15.198336,0 108.779625,15.19836,0 108.779606,15.198381,0 108.779582,15.198398,0 108.779556,15.19841,0 108.779527,15.198416,0 108.779498,15.198416,0 108.779484,15.198414,0 108.778777,15.198272,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.7806,15.198638,0 108.779894,15.198496,0 108.779866,15.198488,0 108.779841,15.198474,0 108.779819,15.198455,0 108.779801,15.198432,0 108.779789,15.198406,0 108.779783,15.198378,0 108.779783,15.19835,0 108.779785,15.198336,0 108.78079,15.193616,0 108.780799,15.193589,0 108.780814,15.193564,0 108.780833,15.193543,0 108.780856,15.193527,0 108.780883,15.193515,0 108.780912,15.193509,0 108.780941,15.193509,0 108.780955,15.193511,0 108.781454,15.193611,0 108.78147,15.193621,0 108.781476,15.193638,0 108.781469,15.193656,0 108.78123,15.193901,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78125,15.19392,0 108.781518,15.193646,0 108.781533,15.193635,0 108.781553,15.193631,0 108.781561,15.193632,0 108.783486,15.194019,0 108.783502,15.194029,0 108.783507,15.194038,0 108.783559,15.194218,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783586,15.194211,0 108.783546,15.194071,0 108.783547,15.194053,0 108.783561,15.19404,0 108.783578,15.194037,0 108.787301,15.194785,0 108.787319,15.194792,0 108.787332,15.194806,0 108.787338,15.194824,0 108.787338,15.194831,0 108.787335,15.194904,0 108.787335,15.194953,0 108.787341,15.195003,0 108.787367,15.195149,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.787394,15.195144,0 108.787369,15.194998,0 108.787364,15.194956,0 108.787363,15.194913,0 108.787363,15.194905,0 108.787365,15.194851,0 108.787373,15.194829,0 108.78739,15.194813,0 108.787414,15.194808,0 108.787421,15.194809,0 108.792259,15.19578,0 108.792287,15.195788,0 108.792313,15.1958,0 108.792338,15.195816,0 108.792359,15.195836,0 108.792377,15.195858,0 108.792391,15.195883,0 108.792401,15.195909,0 108.792406,15.195937,0 108.792407,15.195966,0 108.792404,15.195993,0 108.792352,15.19624,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.787405,15.195142,0 108.78738,15.194996,0 108.787375,15.194954,0 108.787374,15.194912,0 108.787374,15.194906,0 108.787375,15.194885,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.792354,15.195846,0 108.792371,15.195869,0 108.792384,15.195895,0 108.792392,15.195922,0 108.792396,15.19595,0 108.792395,15.195978,0 108.792393,15.195991,0 108.792342,15.196238,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781049,15.191598,0 108.781086,15.191425,0 108.781088,15.191411,0 108.781088,15.191383,0 108.781082,15.191355,0 108.78107,15.191329,0 108.781052,15.191306,0 108.78103,15.191287,0 108.781005,15.191273,0 108.780977,15.191265,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.780535,15.19326,0 108.780552,15.193264,0 108.780566,15.193266,0 108.780595,15.193266,0 108.780624,15.19326,0 108.78065,15.193248,0 108.780674,15.193231,0 108.780693,15.19321,0 108.780708,15.193185,0 108.780717,15.193158,0 108.781049,15.191598,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78124,15.191636,0 108.780914,15.19317,0 108.780911,15.193184,0 108.780912,15.193213,0 108.780918,15.19324,0 108.78093,15.193266,0 108.780947,15.193289,0 108.780969,15.193308,0 108.780994,15.193322,0 108.781022,15.19333,0 108.783425,15.193813,0 108.783438,15.193812,0 108.783453,15.193801,0 108.783458,15.193783,0 108.783435,15.193585,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783463,15.193582,0 108.783489,15.193807,0 108.783495,15.19382,0 108.783511,15.19383,0 108.787348,15.194601,0 108.787372,15.194599,0 108.787392,15.194587,0 108.787403,15.194566,0 108.787452,15.194344,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781488,15.191367,0 108.781442,15.191358,0 108.781428,15.191356,0 108.781398,15.191356,0 108.78137,15.191362,0 108.781343,15.191374,0 108.78132,15.191391,0 108.7813,15.191412,0 108.781286,15.191436,0 108.781277,15.191463,0 108.781243,15.191624,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.780579,15.198738,0 108.779872,15.198596,0 108.779858,15.198594,0 108.779829,15.198594,0 108.7798,15.1986,0 108.779774,15.198611,0 108.77975,15.198628,0 108.779731,15.198649,0 108.779716,15.198674,0 108.779707,15.198701,0 108.779535,15.199511,0 108.779534,15.199516,0 108.77954,15.199533,0 108.779557,15.199543,0 108.779803,15.199593,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.779119,15.199455,0 108.779365,15.199505,0 108.77937,15.199505,0 108.779388,15.199499,0 108.779398,15.199484,0 108.779571,15.198674,0 108.779573,15.19866,0 108.779573,15.198631,0 108.779567,15.198604,0 108.779555,15.198578,0 108.779537,15.198555,0 108.779515,15.198536,0 108.77949,15.198522,0 108.779462,15.198513,0 108.778756,15.198372,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.779114,15.199482,0 108.77936,15.199531,0 108.779376,15.199541,0 108.779382,15.199559,0 108.779381,15.199563,0 108.778893,15.201858,0 108.778884,15.201885,0 108.778869,15.201909,0 108.77885,15.20193,0 108.778827,15.201947,0 108.7788,15.201959,0 108.778771,15.201965,0 108.778742,15.201965,0 108.778728,15.201963,0 108.778021,15.201821,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.779844,15.202187,0 108.779138,15.202045,0 108.77911,15.202037,0 108.779085,15.202023,0 108.779063,15.202004,0 108.779046,15.201981,0 108.779034,15.201955,0 108.779027,15.201927,0 108.779027,15.201899,0 108.77903,15.201885,0 108.779518,15.199591,0 108.779528,15.199575,0 108.779546,15.199569,0 108.779551,15.19957,0 108.779797,15.199619,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>MEP DUONG</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.787479,15.19435,0 108.78743,15.194571,0 108.78743,15.194585,0 108.787436,15.194603,0 108.787449,15.194617,0 108.787466,15.194624,0 108.789759,15.195085,0 108.789773,15.195087,0 108.789802,15.195087,0 108.789831,15.19508,0 108.789857,15.195069,0 108.789881,15.195052,0 108.7899,15.195031,0 108.789915,15.195006,0 108.789924,15.194979,0 108.790064,15.19432,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782202,15.151545,0 108.782231,15.151546,0 108.782259,15.151552,0 108.782286,15.151563,0 108.78231,15.151578,0 108.782331,15.151598,0 108.782348,15.151621,0 108.78236,15.151647,0 108.782367,15.151675,0 108.782369,15.151697,0 108.782382,15.155009,0 108.782382,15.155108,0 108.782378,15.155132,0 108.782367,15.155152,0 108.782349,15.155169,0 108.782336,15.155176,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782336,15.155206,0 108.782359,15.155212,0 108.782376,15.155228,0 108.782382,15.155251,0 108.782383,15.155297,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782579,15.157867,0 108.782599,15.157868,0 108.782616,15.157876,0 108.782629,15.15789,0 108.782634,15.157903,0 108.782751,15.158441,0 108.782937,15.159133,0 108.783272,15.160257,0 108.783328,15.160442,0 108.783351,15.160522,0 108.783356,15.16055,0 108.783355,15.160578,0 108.783348,15.160606,0 108.783335,15.160631,0 108.783317,15.160653,0 108.783294,15.160672,0 108.783269,15.160685,0 108.783254,15.16069,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_003</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-FFFFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.786517,15.15956,0 108.785752,15.159562,0 108.785577,15.159558,0 108.785403,15.159546,0 108.78523,15.159524,0 108.785058,15.159494,0 108.784888,15.159455,0 108.78472,15.159407,0 108.784555,15.159351,0 108.784394,15.159287,0 108.784236,15.159214,0 108.784082,15.159134,0 108.783933,15.159046,0 108.783789,15.15895,0 108.78365,15.158847,0 108.7836,15.158808,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.7836,15.158808,0 108.783578,15.158792,0 108.783552,15.158779,0 108.783524,15.15877,0 108.783495,15.158766,0 108.783466,15.158766,0 108.783437,15.15877,0 108.783409,15.158779,0 108.783383,15.158792,0 108.783359,15.158809,0 108.783339,15.158829,0 108.783322,15.158852,0 108.783249,15.158966,0 108.783231,15.158997,0 108.783213,15.159036,0 108.783199,15.159076,0 108.783189,15.159117,0 108.783183,15.159159,0 108.783181,15.159202,0 108.783183,15.159244,0 108.783189,15.159287,0 108.783199,15.159328,0 108.78346,15.160204,0 108.783515,15.16039,0 108.78354,15.160472,0 108.783544,15.160485,0 108.783558,15.16051,0 108.783576,15.160532,0 108.783599,15.160549,0 108.783625,15.160562,0 108.783654,15.160569,0 108.783683,15.16057,0 108.783711,15.160565,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782624,15.155063,0 108.7826,15.155057,0 108.782583,15.155041,0 108.782577,15.155018,0 108.782577,15.155006,0 108.782565,15.151696,0 108.782567,15.151668,0 108.782574,15.15164,0 108.782585,15.151614,0 108.7826,15.15159,0 108.782619,15.151568,0 108.782641,15.15155,0 108.782666,15.151535,0 108.782693,15.151524,0 108.782721,15.151517,0 108.78274,15.151515,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_003</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-FFFFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.786517,15.159406,0 108.785751,15.159409,0 108.785585,15.159405,0 108.785419,15.159393,0 108.785254,15.159372,0 108.78509,15.159343,0 108.784928,15.159306,0 108.784769,15.159261,0 108.784612,15.159208,0 108.784458,15.159146,0 108.784307,15.159077,0 108.784161,15.159001,0 108.784019,15.158917,0 108.783881,15.158826,0 108.783749,15.158728,0 108.783701,15.15869,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782923,15.157661,0 108.782899,15.157663,0 108.782877,15.157653,0 108.782865,15.157638,0 108.782798,15.15749,0 108.782763,15.157403,0 108.782747,15.157356,0 108.782733,15.157308,0 108.782722,15.15726,0 108.782713,15.157212,0 108.782631,15.156512,0 108.782587,15.155809,0 108.782578,15.155384,0 108.782578,15.155177,0 108.782577,15.155166,0 108.782581,15.155143,0 108.782593,15.155122,0 108.78261,15.155106,0 108.782619,15.155101,0 108.782624,15.155099,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782624,15.155099,0 108.78263,15.155096,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782452,15.156687,0 108.782495,15.157054,0 108.782606,15.15776,0 108.782607,15.157784,0 108.782599,15.157806,0 108.782585,15.157825,0 108.782573,15.157834,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782383,15.155297,0 108.782383,15.155385,0 108.782388,15.155691,0 108.782426,15.156405,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783909,15.174172,0 108.783963,15.174161,0 108.784,15.174161,0 108.784018,15.174167,0 108.784027,15.17418,0 108.784035,15.174236,0 108.784063,15.174232,0 108.784052,15.174153,0 108.784056,15.174135,0 108.784068,15.174126,0 108.784127,15.174097,0 108.784105,15.174051,0 108.784072,15.174064,0 108.784052,15.174064,0 108.784038,15.174053,0 108.784034,15.174041,0 108.784033,15.174031,0 108.784006,15.174033,0 108.784011,15.174089,0 108.784007,15.174107,0 108.784,15.174113,0 108.783995,15.174117,0 108.783919,15.174135,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783622,15.174213,0 108.783413,15.174273,0 108.783394,15.174271,0 108.78338,15.174259,0 108.783378,15.174255,0 108.783391,15.174294,0 108.783405,15.17434,0 108.783406,15.174321,0 108.783419,15.174308,0 108.783423,15.174307,0 108.78361,15.174249,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782452,15.156687,0 108.782426,15.156405,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783697,15.169962,0 108.783702,15.169962,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783702,15.169962,0 108.783725,15.169969,0 108.783742,15.169986,0 108.783747,15.170009,0 108.783667,15.173575,0 108.783667,15.174165,0 108.783662,15.174188,0 108.783645,15.174205,0 108.783634,15.17421,0 108.783622,15.174213,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783856,15.163495,0 108.783815,15.162939,0 108.783729,15.162239,0 108.783605,15.161544,0 108.783444,15.160857,0 108.783438,15.160841,0 108.783425,15.160816,0 108.783406,15.160794,0 108.783383,15.160776,0 108.783357,15.160764,0 108.783329,15.160756,0 108.7833,15.160755,0 108.783271,15.16076,0 108.783211,15.160776,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784063,15.166737,0 108.784045,15.166743,0 108.784027,15.166737,0 108.784017,15.166721,0 108.784016,15.166716,0 108.784067,15.164483,0 108.784067,15.164438,0 108.784062,15.163723,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784053,15.163511,0 108.784008,15.162911,0 108.78392,15.162201,0 108.783794,15.161497,0 108.783631,15.1608,0 108.783626,15.160772,0 108.783628,15.160744,0 108.783636,15.160716,0 108.78365,15.160691,0 108.783668,15.160669,0 108.783691,15.160652,0 108.783717,15.160639,0 108.783728,15.160636,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784074,15.166721,0 108.784099,15.166736,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784068,15.166731,0 108.784074,15.166721,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784093,15.166745,0 108.784099,15.166736,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784062,15.166768,0 108.784046,15.166771,0 108.784042,15.166771,0 108.784038,15.166771,0 108.784022,15.16678,0 108.784015,15.166797,0 108.783946,15.169871,0 108.783952,15.169894,0 108.783968,15.169911,0 108.783991,15.169917,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783991,15.169917,0 108.783994,15.169917,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783909,15.174172,0 108.7839,15.174174,0 108.783886,15.17418,0 108.78387,15.174197,0 108.783864,15.17422,0 108.783894,15.174824,0 108.783959,15.175709,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783909,15.174137,0 108.78389,15.174133,0 108.783874,15.174122,0 108.783864,15.174106,0 108.783861,15.174092,0 108.783863,15.173579,0 108.783943,15.169987,0 108.783948,15.169968,0 108.783959,15.169953,0 108.783976,15.169944,0 108.783988,15.169942,0 108.783991,15.169942,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783623,15.174247,0 108.783642,15.17425,0 108.783658,15.174261,0 108.783668,15.174276,0 108.783671,15.17429,0 108.783699,15.174837,0 108.783764,15.175722,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782644,15.155059,0 108.782677,15.155043,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78269,15.155067,0 108.78263,15.155096,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_004</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-808080-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782683,15.155055,0 108.782575,15.155107,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782203,15.155196,0 108.782233,15.155195,0 108.782293,15.155188,0 108.782328,15.155178,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782204,15.155223,0 108.782235,15.155222,0 108.782299,15.155214,0 108.782323,15.155208,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783762,15.167254,0 108.78378,15.167248,0 108.783798,15.167254,0 108.783808,15.16727,0 108.783808,15.167275,0 108.78375,15.169888,0 108.783746,15.169906,0 108.783734,15.169921,0 108.783717,15.16993,0 108.783708,15.169932,0 108.783702,15.169932,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783763,15.167223,0 108.783781,15.167221,0 108.783783,15.167221,0 108.783787,15.16722,0 108.783803,15.167211,0 108.78381,15.167194,0 108.783871,15.164479,0 108.78387,15.163839,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783728,15.167255,0 108.783751,15.167269,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783751,15.167269,0 108.783757,15.16726,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783728,15.167255,0 108.783734,15.167246,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783701,15.15869,0 108.783576,15.158583,0 108.783479,15.158491,0 108.783365,15.158373,0 108.783258,15.15825,0 108.783157,15.158121,0 108.783064,15.157987,0 108.782978,15.157849,0 108.782922,15.157749,0 108.782917,15.157726,0 108.782924,15.157703,0 108.782938,15.15769,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783119,15.157562,0 108.783136,15.157595,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782938,15.15769,0 108.782973,15.15767,0 108.783134,15.157591,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78294,15.157694,0 108.782975,15.157674,0 108.783085,15.15762,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783085,15.15762,0 108.783136,15.157595,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782923,15.157661,0 108.782961,15.157645,0 108.783121,15.157566,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782921,15.157657,0 108.782959,15.157641,0 108.783119,15.157562,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782336,15.155206,0 108.782323,15.155208,0 108.782299,15.155214,0 108.782235,15.155222,0 108.782204,15.155223,0 108.782193,15.155224,0 108.782192,15.155197,0 108.782203,15.155196,0 108.782233,15.155195,0 108.782293,15.155188,0 108.782328,15.155178,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783994,15.169917,0 108.784115,15.169913,0 108.784116,15.169937,0 108.783991,15.169942,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784164,15.163644,0 108.784125,15.163649,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78371,15.163709,0 108.782816,15.163837,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784407,15.163541,0 108.784138,15.163579,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784407,15.163536,0 108.784137,15.163575,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783737,15.163636,0 108.782831,15.163766,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782724,15.163971,0 108.782721,15.163943,0 108.782725,15.163915,0 108.782736,15.163889,0 108.782754,15.163866,0 108.782777,15.163849,0 108.782804,15.163839,0 108.782816,15.163837,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784214,15.163654,0 108.784268,15.163687,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784164,15.163644,0 108.784188,15.163644,0 108.784211,15.163652,0 108.784214,15.163654,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784268,15.163687,0 108.784306,15.163674,0 108.784304,15.163664,0 108.784302,15.163637,0 108.784312,15.163621,0 108.784319,15.163618,0 108.784425,15.163572,0 108.784446,15.163563,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784432,15.163534,0 108.784407,15.163541,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78443,15.163529,0 108.784407,15.163536,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784432,15.163534,0 108.784446,15.163563,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78443,15.163529,0 108.784432,15.163534,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783491,15.176892,0 108.78375,15.176899,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784115,15.176926,0 108.784169,15.176935,0 108.784385,15.176991,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783493,15.176842,0 108.783751,15.176849,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784085,15.17687,0 108.78418,15.176887,0 108.784398,15.176943,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781791,15.18789,0 108.781806,15.187914,0 108.781815,15.187941,0 108.781818,15.187969,0 108.781816,15.187997,0 108.781815,15.187998,0 108.781163,15.19106,0 108.781155,15.191087,0 108.78114,15.191112,0 108.781121,15.191133,0 108.781097,15.191149,0 108.781097,15.19115,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781061,15.191317,0 108.781076,15.191341,0 108.781085,15.191368,0 108.781089,15.191396,0 108.781086,15.191425,0 108.778823,15.202051,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783957,15.175685,0 108.783993,15.17618,0 108.784024,15.176801,0 108.784024,15.176805,0 108.78403,15.176828,0 108.784043,15.176848,0 108.784062,15.176862,0 108.784085,15.17687,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782073,15.187946,0 108.782073,15.187947,0 108.78205,15.187963,0 108.78203,15.187984,0 108.782016,15.188009,0 108.782007,15.188036,0 108.781355,15.191098,0 108.781355,15.191099,0 108.781352,15.191127,0 108.781355,15.191155,0 108.781365,15.191182,0 108.781379,15.191206,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781344,15.191374,0 108.781343,15.191374,0 108.78132,15.191391,0 108.7813,15.191412,0 108.781286,15.191436,0 108.781277,15.191463,0 108.779014,15.20209,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783762,15.175698,0 108.783798,15.176194,0 108.783828,15.176775,0 108.783824,15.176798,0 108.783814,15.176819,0 108.783796,15.176836,0 108.783774,15.176846,0 108.783751,15.176849,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784075,15.163684,0 108.784051,15.163688,0 108.784028,15.163679,0 108.784014,15.16366,0 108.78401,15.163644,0 108.784009,15.163629,0 108.78397,15.162916,0 108.783892,15.162205,0 108.783777,15.161499,0 108.783623,15.1608,0 108.783619,15.160772,0 108.783621,15.160744,0 108.78363,15.160717,0 108.783643,15.160692,0 108.783662,15.16067,0 108.783685,15.160653,0 108.783712,15.160641,0 108.783721,15.160638,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782579,15.157867,0 108.782599,15.157868,0 108.782616,15.157876,0 108.782629,15.15789,0 108.782634,15.157903,0 108.782751,15.158441,0 108.782937,15.159133,0 108.783272,15.160257,0 108.783349,15.160525,0 108.783354,15.160553,0 108.783352,15.160581,0 108.783345,15.160608,0 108.783331,15.160634,0 108.783313,15.160656,0 108.78329,15.160673,0 108.783264,15.160686,0 108.783252,15.16069,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782573,15.157834,0 108.782585,15.157825,0 108.782599,15.157806,0 108.782607,15.157784,0 108.782606,15.15776,0 108.782495,15.157054,0 108.782421,15.156343,0 108.782386,15.155629,0 108.782383,15.155385,0 108.782383,15.155297,0 108.782381,15.155281,0 108.782373,15.155254,0 108.782358,15.15523,0 108.782337,15.15521,0 108.782311,15.155196,0 108.782283,15.15519,0 108.782254,15.15519,0 108.782153,15.155205,0 108.781668,15.155266,0 108.781577,15.155274,0 108.781279,15.155301,0 108.78127,15.155302,0 108.781248,15.155311,0 108.781229,15.155326,0 108.781217,15.155346,0 108.781211,15.155369,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782202,15.151545,0 108.782231,15.151546,0 108.782259,15.151552,0 108.782286,15.151563,0 108.78231,15.151578,0 108.782331,15.151598,0 108.782348,15.151621,0 108.78236,15.151647,0 108.782367,15.151675,0 108.782369,15.151697,0 108.782382,15.155009,0 108.782378,15.155037,0 108.782367,15.155063,0 108.782349,15.155086,0 108.782326,15.155103,0 108.782299,15.155114,0 108.782287,15.155117,0 108.782143,15.155138,0 108.781661,15.155198,0 108.78157,15.155207,0 108.781305,15.155231,0 108.781281,15.155229,0 108.781259,15.15522,0 108.781241,15.155204,0 108.781229,15.155184,0 108.781224,15.15516,0 108.781224,15.155151,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782644,15.155059,0 108.782625,15.155063,0 108.782606,15.15506,0 108.78259,15.15505,0 108.78258,15.155034,0 108.782577,15.155018,0 108.782565,15.151696,0 108.782568,15.151663,0 108.782577,15.151632,0 108.782592,15.151602,0 108.782612,15.151575,0 108.782637,15.151553,0 108.782666,15.151535,0 108.782697,15.151523,0 108.782731,15.151516,0 108.78274,15.151515,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.786517,15.15956,0 108.785752,15.159562,0 108.785577,15.159558,0 108.785403,15.159546,0 108.78523,15.159524,0 108.785058,15.159494,0 108.784888,15.159455,0 108.78472,15.159407,0 108.784555,15.159351,0 108.784394,15.159287,0 108.784236,15.159214,0 108.784082,15.159134,0 108.783933,15.159046,0 108.783789,15.15895,0 108.78365,15.158847,0 108.7836,15.158808,0 108.783578,15.158792,0 108.783552,15.158779,0 108.783524,15.15877,0 108.783495,15.158766,0 108.783466,15.158766,0 108.783437,15.15877,0 108.783409,15.158779,0 108.783383,15.158792,0 108.783359,15.158809,0 108.783339,15.158829,0 108.783322,15.158852,0 108.783249,15.158966,0 108.783231,15.158997,0 108.783213,15.159036,0 108.783199,15.159076,0 108.783189,15.159117,0 108.783183,15.159159,0 108.783181,15.159202,0 108.783183,15.159244,0 108.783189,15.159287,0 108.783199,15.159328,0 108.78346,15.160204,0 108.783536,15.160471,0 108.783542,15.160485,0 108.783555,15.160511,0 108.783574,15.160532,0 108.783597,15.16055,0 108.783623,15.160563,0 108.783651,15.16057,0 108.78368,15.160571,0 108.783709,15.160566,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.786517,15.159406,0 108.785751,15.159409,0 108.785585,15.159405,0 108.785419,15.159393,0 108.785254,15.159372,0 108.78509,15.159343,0 108.784928,15.159306,0 108.784769,15.159261,0 108.784612,15.159208,0 108.784458,15.159146,0 108.784307,15.159077,0 108.784161,15.159001,0 108.784019,15.158917,0 108.783881,15.158826,0 108.783749,15.158728,0 108.783622,15.158623,0 108.783501,15.158512,0 108.783479,15.158491,0 108.783365,15.158373,0 108.783258,15.15825,0 108.783157,15.158121,0 108.783064,15.157987,0 108.782978,15.157849,0 108.782922,15.157749,0 108.782917,15.15773,0 108.78292,15.157712,0 108.78293,15.157696,0 108.78294,15.157689,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782926,15.15766,0 108.782902,15.157664,0 108.78288,15.157655,0 108.782865,15.157638,0 108.782798,15.15749,0 108.782763,15.157403,0 108.782747,15.157356,0 108.782733,15.157308,0 108.782722,15.15726,0 108.782713,15.157212,0 108.782631,15.156512,0 108.782587,15.155809,0 108.782578,15.155384,0 108.782578,15.155177,0 108.782581,15.155154,0 108.78259,15.155132,0 108.782605,15.155113,0 108.782624,15.155099,0 108.78263,15.155096,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782775,15.163826,0 108.783697,15.163895,0 108.783708,15.163895,0 108.783736,15.163891,0 108.783763,15.16388,0 108.783786,15.163862,0 108.783803,15.163839,0 108.783814,15.163813,0 108.783817,15.163785,0 108.783815,15.163651,0 108.783777,15.162947,0 108.783701,15.162247,0 108.783588,15.16155,0 108.783437,15.160861,0 108.783431,15.160843,0 108.783417,15.160818,0 108.783399,15.160796,0 108.783376,15.160778,0 108.78335,15.160766,0 108.783322,15.160759,0 108.783292,15.160757,0 108.783264,15.160762,0 108.783211,15.160776,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782788,15.163827,0 108.782769,15.163822,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781957,15.187109,0 108.781972,15.187133,0 108.781981,15.18716,0 108.781985,15.187188,0 108.781982,15.187217,0 108.781893,15.187633,0 108.781884,15.18766,0 108.78187,15.187684,0 108.78185,15.187705,0 108.781827,15.187722,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783759,15.176899,0 108.783783,15.176904,0 108.783804,15.176915,0 108.78382,15.176933,0 108.78383,15.176955,0 108.783832,15.176971,0 108.783822,15.177675,0 108.783775,15.178379,0 108.783689,15.179078,0 108.783566,15.179773,0 108.783546,15.179871,0 108.783488,15.180142,0 108.783478,15.180169,0 108.783462,15.180193,0 108.78344,15.180211,0 108.783424,15.18022,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783076,15.181853,0 108.783094,15.181869,0 108.783105,15.18189,0 108.783109,15.181913,0 108.783108,15.181928,0 108.782859,15.183096,0 108.78285,15.183118,0 108.782835,15.183137,0 108.782814,15.183149,0 108.782799,15.183153,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782777,15.183258,0 108.782795,15.183274,0 108.782806,15.183294,0 108.78281,15.183318,0 108.782809,15.183334,0 108.78257,15.184452,0 108.782562,15.184474,0 108.782546,15.184492,0 108.782525,15.184505,0 108.782511,15.184509,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782489,15.184612,0 108.782507,15.184628,0 108.782518,15.184649,0 108.782522,15.184672,0 108.78252,15.184687,0 108.782316,15.185647,0 108.782307,15.185669,0 108.782292,15.185687,0 108.782271,15.185699,0 108.782247,15.185705,0 108.782228,15.185703,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781993,15.186942,0 108.781993,15.186941,0 108.782017,15.186925,0 108.782036,15.186904,0 108.782051,15.186879,0 108.782059,15.186852,0 108.782272,15.185855,0 108.782273,15.18584,0 108.782269,15.185817,0 108.782258,15.185796,0 108.78224,15.18578,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782109,15.187779,0 108.782094,15.187755,0 108.782085,15.187728,0 108.782082,15.1877,0 108.782084,15.187671,0 108.782085,15.187671,0 108.782158,15.187327,0 108.782167,15.1873,0 108.782181,15.187276,0 108.782201,15.187255,0 108.782224,15.187238,0 108.782224,15.187237,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782288,15.18694,0 108.782271,15.186917,0 108.782261,15.186891,0 108.782258,15.186862,0 108.78226,15.186845,0 108.782463,15.185894,0 108.782472,15.185872,0 108.782487,15.185853,0 108.782508,15.185841,0 108.782523,15.185837,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782538,15.185764,0 108.78252,15.185748,0 108.782508,15.185728,0 108.782503,15.185705,0 108.782504,15.185685,0 108.782709,15.184725,0 108.782717,15.184703,0 108.782732,15.184684,0 108.782753,15.184671,0 108.782772,15.184665,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782793,15.184566,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782793,15.184566,0 108.782776,15.184549,0 108.782764,15.184529,0 108.78276,15.184505,0 108.782762,15.184491,0 108.783008,15.183335,0 108.783016,15.183313,0 108.783032,15.183295,0 108.783053,15.183283,0 108.783067,15.183279,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78309,15.183174,0 108.783072,15.183158,0 108.78306,15.183137,0 108.783056,15.183114,0 108.783058,15.183099,0 108.783312,15.181908,0 108.78332,15.181886,0 108.783336,15.181868,0 108.783356,15.181856,0 108.783371,15.181852,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783388,15.18177,0 108.783371,15.181754,0 108.783359,15.181734,0 108.783355,15.18171,0 108.783357,15.181696,0 108.783605,15.180532,0 108.783614,15.180505,0 108.783631,15.180482,0 108.783653,15.180463,0 108.783668,15.180455,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783729,15.180169,0 108.783713,15.180145,0 108.783703,15.180119,0 108.7837,15.180091,0 108.783702,15.180073,0 108.783737,15.179909,0 108.783752,15.179839,0 108.783878,15.179135,0 108.783966,15.178425,0 108.784016,15.177712,0 108.784027,15.176998,0 108.784031,15.176975,0 108.784042,15.176954,0 108.78406,15.176937,0 108.784082,15.176927,0 108.784106,15.176925,0 108.784115,15.176926,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_002</name>
+			<description>BO VIA</description>
+			<styleUrl>#line-00FFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783363,15.180505,0 108.78338,15.180528,0 108.78339,15.180554,0 108.783393,15.180583,0 108.783391,15.1806,0 108.783153,15.181718,0 108.783144,15.181739,0 108.783128,15.181758,0 108.783108,15.18177,0 108.783093,15.181774,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_003</name>
+			<description>go chan</description>
+			<styleUrl>#line-FFFFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.786518,15.1596,0 108.785752,15.159603,0 108.785575,15.159599,0 108.785399,15.159586,0 108.785223,15.159564,0 108.785049,15.159534,0 108.784877,15.159494,0 108.784708,15.159446,0 108.784541,15.159389,0 108.784377,15.159324,0 108.784217,15.159251,0 108.784061,15.159169,0 108.78391,15.15908,0 108.783764,15.158983,0 108.783624,15.158879,0 108.783573,15.158839,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polygon_001</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782938,15.158179,0 108.783061,15.15868,0 108.783062,15.158685,0 108.783075,15.158706,0 108.783094,15.15872,0 108.783117,15.158727,0 108.783141,15.158725,0 108.783163,15.158714,0 108.783179,15.158697,0 108.783228,15.158619,0 108.783229,15.158618,0 108.78324,15.158591,0 108.783241,15.158563,0 108.783234,15.158536,0 108.783218,15.158512,0 108.783104,15.158381,0 108.782996,15.158244,0 108.782947,15.158175,0 108.782946,15.158175,0 108.782944,15.158173,0 108.782942,15.158173,0 108.78294,15.158174,0 108.782938,15.158176,0 108.782938,15.158179,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_003</name>
+			<description>go chan</description>
+			<styleUrl>#line-FFFFFF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783728,15.158658,0 108.783775,15.158696,0 108.783906,15.158793,0 108.784041,15.158882,0 108.784182,15.158965,0 108.784326,15.159041,0 108.784475,15.159109,0 108.784627,15.15917,0 108.784781,15.159222,0 108.784939,15.159267,0 108.785099,15.159304,0 108.78526,15.159332,0 108.785423,15.159352,0 108.785587,15.159364,0 108.785751,15.159368,0 108.786517,15.159365,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783246,15.160672,0 108.783311,15.160654,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783706,15.160547,0 108.783644,15.160564,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783663,15.160674,0 108.783734,15.160655,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783228,15.16027,0 108.782893,15.159145,0 108.782706,15.158451,0 108.782579,15.157865,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783249,15.160671,0 108.783272,15.160662,0 108.783291,15.160647,0 108.783305,15.160628,0 108.783314,15.160607,0 108.783317,15.160583,0 108.783314,15.16056,0 108.783283,15.160455,0 108.783228,15.16027,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783573,15.158839,0 108.783562,15.158831,0 108.783536,15.158817,0 108.783508,15.158809,0 108.783479,15.158806,0 108.78345,15.158809,0 108.783422,15.158818,0 108.783397,15.158832,0 108.783375,15.15885,0 108.783357,15.158873,0 108.783287,15.158984,0 108.783267,15.159019,0 108.78325,15.159058,0 108.783238,15.159099,0 108.783229,15.159141,0 108.783226,15.159183,0 108.783226,15.159226,0 108.783232,15.159268,0 108.783242,15.15931,0 108.783505,15.160192,0 108.78356,15.160377,0 108.783592,15.160484,0 108.783604,15.16051,0 108.783623,15.160531,0 108.783649,15.160545,0 108.783677,15.16055,0 108.783706,15.160547,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784102,15.163578,0 108.784052,15.162881,0 108.783963,15.162169,0 108.783835,15.161463,0 108.783669,15.160764,0 108.783666,15.160736,0 108.783673,15.160709,0 108.783688,15.160684,0 108.783709,15.160666,0 108.783734,15.160655,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78274,15.151515,0 108.78274,15.151565,0 108.782736,15.151565,0 108.782707,15.151571,0 108.782681,15.151583,0 108.782657,15.1516,0 108.782638,15.151621,0 108.782623,15.151645,0 108.782614,15.151672,0 108.782611,15.151701,0 108.782625,15.155384,0 108.782634,15.155824,0 108.782679,15.156525,0 108.782762,15.157222,0 108.782772,15.157276,0 108.78279,15.15735,0 108.782815,15.157422,0 108.782867,15.157544,0 108.782937,15.157688,0 108.783014,15.157829,0 108.783099,15.157965,0 108.783191,15.158097,0 108.783291,15.158224,0 108.783396,15.158346,0 108.783509,15.158462,0 108.783605,15.158553,0 108.783728,15.158658,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784062,15.16674,0 108.784113,15.164484,0 108.784115,15.164369,0 108.784106,15.163652,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783991,15.169919,0 108.784062,15.166766,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784005,15.175706,0 108.783941,15.17482,0 108.783909,15.17417,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783763,15.167226,0 108.783825,15.164478,0 108.783827,15.164074,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783702,15.169935,0 108.783763,15.167251,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783717,15.175725,0 108.783653,15.17484,0 108.783623,15.174244,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783211,15.160778,0 108.78323,15.160781,0 108.783237,15.160786,0 108.783239,15.160789,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78381,15.163498,0 108.783766,15.162917,0 108.783679,15.16222,0 108.783554,15.161528,0 108.783392,15.160844,0 108.783392,15.160842,0 108.783382,15.16082,0 108.783367,15.160801,0 108.783348,15.160787,0 108.783325,15.160779,0 108.783301,15.160776,0 108.783277,15.160779,0 108.783239,15.160789,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782406,15.156692,0 108.78238,15.156408,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782202,15.151545,0 108.782203,15.151604,0 108.782232,15.151606,0 108.78226,15.151615,0 108.782284,15.15163,0 108.782304,15.151651,0 108.782317,15.151677,0 108.782323,15.151704,0 108.782323,15.151712,0 108.782335,15.155009,0 108.782336,15.155178,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782336,15.155297,0 108.782336,15.155385,0 108.782341,15.155692,0 108.78238,15.156408,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782573,15.157837,0 108.782458,15.157128,0 108.782406,15.156692,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782336,15.155204,0 108.782336,15.155297,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783824,15.163882,0 108.783827,15.164074,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783823,15.163841,0 108.783824,15.163882,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782925,15.157665,0 108.782946,15.157705,0 108.783024,15.157846,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783622,15.174215,0 108.783621,15.173574,0 108.783702,15.16996,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783909,15.174139,0 108.783909,15.17358,0 108.783991,15.16994,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783694,15.163601,0 108.782731,15.163739,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78381,15.163498,0 108.783694,15.163601,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782747,15.163878,0 108.783715,15.16374,0 108.783823,15.163841,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783716,15.175701,0 108.783752,15.176197,0 108.783784,15.176898,0 108.783778,15.177601,0 108.783735,15.178302,0 108.783654,15.179,0 108.783535,15.179693,0 108.7835,15.179862,0 108.778777,15.202042,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.784003,15.175682,0 108.78404,15.176177,0 108.784072,15.176893,0 108.784067,15.17761,0 108.784022,15.178326,0 108.783939,15.179039,0 108.783818,15.179746,0 108.783783,15.179918,0 108.781379,15.191206,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781379,15.191206,0 108.781344,15.191374,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781344,15.191374,0 108.77906,15.202099,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.786518,15.1596,0 108.785752,15.159603,0 108.785575,15.159599,0 108.785399,15.159586,0 108.785223,15.159564,0 108.785049,15.159534,0 108.784877,15.159494,0 108.784708,15.159446,0 108.784541,15.159389,0 108.784377,15.159324,0 108.784217,15.159251,0 108.784061,15.159169,0 108.78391,15.15908,0 108.783764,15.158983,0 108.783624,15.158879,0 108.783573,15.158839,0 108.783562,15.158831,0 108.783536,15.158817,0 108.783508,15.158809,0 108.783479,15.158806,0 108.78345,15.158809,0 108.783422,15.158818,0 108.783397,15.158832,0 108.783375,15.15885,0 108.783357,15.158873,0 108.783287,15.158984,0 108.783267,15.159019,0 108.78325,15.159058,0 108.783238,15.159099,0 108.783229,15.159141,0 108.783226,15.159183,0 108.783226,15.159226,0 108.783232,15.159268,0 108.783242,15.15931,0 108.783505,15.160192,0 108.783588,15.160483,0 108.783588,15.160484,0 108.783598,15.160506,0 108.783613,15.160525,0 108.783632,15.160539,0 108.783655,15.160547,0 108.783679,15.16055,0 108.783703,15.160547,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polygon_001</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782929,15.158157,0 108.783056,15.158681,0 108.783062,15.158696,0 108.783077,15.158715,0 108.783098,15.158727,0 108.783122,15.158732,0 108.783146,15.158728,0 108.783167,15.158717,0 108.783183,15.158699,0 108.783232,15.158622,0 108.783236,15.158615,0 108.783245,15.158588,0 108.783246,15.15856,0 108.783238,15.158532,0 108.783222,15.158509,0 108.783107,15.158378,0 108.783,15.158241,0 108.782937,15.158153,0 108.782935,15.158151,0 108.782932,15.158151,0 108.78293,15.158152,0 108.782929,15.158154,0 108.782929,15.158157,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782202,15.151545,0 108.782203,15.151604,0 108.782232,15.151606,0 108.78226,15.151615,0 108.782284,15.15163,0 108.782304,15.151651,0 108.782317,15.151677,0 108.782323,15.151704,0 108.782323,15.151712,0 108.782335,15.15502,0 108.782331,15.155043,0 108.78232,15.155064,0 108.782302,15.15508,0 108.78228,15.15509,0 108.782272,15.155092,0 108.782138,15.155112,0 108.781658,15.155171,0 108.781568,15.15518,0 108.781311,15.155203,0 108.781291,15.155201,0 108.781275,15.155191,0 108.781264,15.155176,0 108.78126,15.155157,0 108.78126,15.155153,0 108.781224,15.155151,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783246,15.160671,0 108.783271,15.16066,0 108.783293,15.160641,0 108.783308,15.160617,0 108.783314,15.160589,0 108.783311,15.160561,0 108.783228,15.16027,0 108.782893,15.159145,0 108.782706,15.158451,0 108.782557,15.157749,0 108.782446,15.15704,0 108.782373,15.156327,0 108.782339,15.15561,0 108.782336,15.155385,0 108.782336,15.15529,0 108.782336,15.155283,0 108.78233,15.155261,0 108.782316,15.155241,0 108.782297,15.155226,0 108.782274,15.155219,0 108.78225,15.155218,0 108.782158,15.155232,0 108.781671,15.155293,0 108.781579,15.155301,0 108.781293,15.155327,0 108.781275,15.155332,0 108.781257,15.155349,0 108.781251,15.155371,0 108.781211,15.155369,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78274,15.151515,0 108.78274,15.151565,0 108.782736,15.151565,0 108.782707,15.151571,0 108.782681,15.151583,0 108.782657,15.1516,0 108.782638,15.151621,0 108.782623,15.151645,0 108.782614,15.151672,0 108.782611,15.151701,0 108.782625,15.155384,0 108.782634,15.155824,0 108.782679,15.156525,0 108.782762,15.157222,0 108.782772,15.157276,0 108.78279,15.15735,0 108.782815,15.157422,0 108.782867,15.157544,0 108.782937,15.157688,0 108.783014,15.157829,0 108.783099,15.157965,0 108.783191,15.158097,0 108.783291,15.158224,0 108.783396,15.158346,0 108.783509,15.158462,0 108.78353,15.158484,0 108.78365,15.158593,0 108.783775,15.158696,0 108.783906,15.158793,0 108.784041,15.158882,0 108.784182,15.158965,0 108.784326,15.159041,0 108.784475,15.159109,0 108.784627,15.15917,0 108.784781,15.159222,0 108.784939,15.159267,0 108.785099,15.159304,0 108.78526,15.159332,0 108.785423,15.159352,0 108.785587,15.159364,0 108.785751,15.159368,0 108.786517,15.159365,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783246,15.160672,0 108.783309,15.160655,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783703,15.160548,0 108.783641,15.160565,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782875,15.163806,0 108.783691,15.163867,0 108.783693,15.163867,0 108.783717,15.163865,0 108.783739,15.163855,0 108.783756,15.163838,0 108.783767,15.163817,0 108.783771,15.163794,0 108.783767,15.163627,0 108.783728,15.162926,0 108.783651,15.162227,0 108.783537,15.161534,0 108.783386,15.160847,0 108.783385,15.160844,0 108.783375,15.160822,0 108.78336,15.160803,0 108.783341,15.160789,0 108.783318,15.16078,0 108.783294,15.160778,0 108.78327,15.160781,0 108.783239,15.160789,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783211,15.160778,0 108.78323,15.160781,0 108.783237,15.160786,0 108.783239,15.160789,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_005</name>
+			<description>go chan</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783663,15.160674,0 108.783715,15.16066,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.780491,15.193464,0 108.780508,15.193467,0 108.780531,15.193475,0 108.780551,15.193488,0 108.780567,15.193506,0 108.780578,15.193527,0 108.780582,15.19355,0 108.780581,15.193574,0 108.779571,15.198317,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.779498,15.198347,0 108.778792,15.198201,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.780988,15.19166,0 108.780951,15.191837,0 108.780875,15.192191,0 108.780861,15.192259,0 108.7808,15.192545,0 108.780785,15.192612,0 108.780771,15.192679,0 108.780768,15.192695,0 108.780677,15.193123,0 108.780666,15.193149,0 108.780648,15.193171,0 108.780624,15.193187,0 108.780596,15.193194,0 108.780567,15.193193,0 108.78055,15.193189,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781286,15.191645,0 108.780959,15.193179,0 108.780958,15.193208,0 108.780966,15.193235,0 108.780982,15.193258,0 108.781004,15.193276,0 108.781032,15.193286,0 108.781072,15.193294,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781156,15.193311,0 108.78154,15.193388,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781732,15.193427,0 108.783457,15.193773,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783486,15.193779,0 108.787403,15.194565,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.78743,15.194571,0 108.789741,15.195035,0 108.78977,15.195036,0 108.789798,15.195029,0 108.789822,15.195013,0 108.78984,15.194991,0 108.789851,15.194965,0 108.789991,15.194305,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.778037,15.20175,0 108.778743,15.201892,0 108.778748,15.201893,0 108.778772,15.201891,0 108.778794,15.201882,0 108.778811,15.201865,0 108.77882,15.201843,0 108.779314,15.199522,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.77932,15.199495,0 108.779498,15.198659,0 108.779499,15.198654,0 108.779497,15.198631,0 108.779487,15.198609,0 108.77947,15.198593,0 108.779447,15.198584,0 108.778741,15.198442,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.780564,15.198808,0 108.779857,15.198667,0 108.779853,15.198666,0 108.779828,15.198667,0 108.779806,15.198677,0 108.77979,15.198694,0 108.77978,15.198716,0 108.779602,15.199552,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.779597,15.199579,0 108.779102,15.2019,0 108.779102,15.201904,0 108.779103,15.201928,0 108.779113,15.201949,0 108.779131,15.201965,0 108.779153,15.201974,0 108.779859,15.202116,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.778872,15.202984,0 108.779018,15.202298,0 108.779027,15.202276,0 108.779044,15.202259,0 108.779066,15.202249,0 108.77909,15.202248,0 108.779095,15.202249,0 108.779801,15.202391,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.777978,15.202025,0 108.778684,15.202166,0 108.778707,15.202175,0 108.778724,15.202192,0 108.778734,15.202213,0 108.778736,15.202236,0 108.778735,15.202241,0 108.778589,15.202927,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TC Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781073,15.193294,0 108.781156,15.193311,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TN Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.790274,15.194362,0 108.790133,15.195021,0 108.790132,15.195045,0 108.790136,15.195068,0 108.790147,15.195089,0 108.790163,15.195107,0 108.790183,15.19512,0 108.790206,15.195128,0 108.790325,15.195152,0 108.790342,15.195155,0 108.790351,15.195157,0 108.79046,15.195179,0 108.790629,15.195213,0 108.790824,15.195252,0 108.791007,15.195289,0 108.791026,15.195293,0 108.791134,15.195314,0 108.791141,15.195316,0 108.791303,15.195348,0 108.791314,15.19535,0 108.791465,15.195381,0 108.791559,15.1954,0 108.791606,15.195409,0 108.791736,15.195435,0 108.791864,15.195461,0 108.792012,15.195491,0 108.792082,15.195505,0 108.792263,15.195541,0 108.792426,15.195574,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TN Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.779858,15.198351,0 108.780863,15.193631,0 108.780873,15.193604,0 108.780892,15.193582,0 108.780916,15.193567,0 108.780944,15.193559,0 108.780973,15.19356,0 108.781006,15.193567,0 108.781046,15.193575,0 108.781091,15.193584,0 108.781123,15.19359,0 108.781155,15.193597,0 108.781201,15.193606,0 108.781253,15.193617,0 108.781263,15.193619,0 108.781288,15.193624,0 108.78129,15.193624,0 108.781336,15.193633,0 108.781466,15.193659,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TN Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.781498,15.193666,0 108.781652,15.193697,0 108.781834,15.193733,0 108.781963,15.193759,0 108.781994,15.193765,0 108.782155,15.193798,0 108.782319,15.193831,0 108.782329,15.193833,0 108.782346,15.193836,0 108.782356,15.193838,0 108.782564,15.19388,0 108.782746,15.193916,0 108.782814,15.19393,0 108.782836,15.193934,0 108.782928,15.193953,0 108.78311,15.19399,0 108.783215,15.194011,0 108.78323,15.194014,0 108.783362,15.19404,0 108.783475,15.194063,0 108.783498,15.194067,0 108.783505,15.194069,0 108.783517,15.194071,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TN Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.783548,15.194077,0 108.783555,15.194079,0 108.783569,15.194082,0 108.7837,15.194108,0 108.783825,15.194133,0 108.783971,15.194162,0 108.784139,15.194196,0 108.784267,15.194222,0 108.784386,15.194246,0 108.784534,15.194275,0 108.784716,15.194312,0 108.784924,15.194354,0 108.785029,15.194375,0 108.785142,15.194398,0 108.785148,15.194399,0 108.785154,15.1944,0 108.785298,15.194429,0 108.785338,15.194437,0 108.785457,15.194461,0 108.785662,15.194502,0 108.785767,15.194523,0 108.785776,15.194525,0 108.785787,15.194527,0 108.785949,15.19456,0 108.786116,15.194593,0 108.786209,15.194612,0 108.786347,15.194639,0 108.786355,15.194641,0 108.786368,15.194644,0 108.7864,15.19465,0 108.786595,15.194689,0 108.786756,15.194722,0 108.786871,15.194745,0 108.787028,15.194776,0 108.78712,15.194795,0 108.787236,15.194818,0 108.787246,15.19482,0 108.787256,15.194822,0 108.787314,15.194834,0 108.78732,15.194835,0 108.787327,15.194836,0 108.787338,15.194838,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_006</name>
+			<description>TN Viahe 3D</description>
+			<styleUrl>#line-00FF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.787366,15.194844,0 108.787375,15.194846,0 108.787485,15.194868,0 108.78763,15.194897,0 108.787769,15.194925,0 108.787904,15.194952,0 108.788032,15.194978,0 108.788219,15.195015,0 108.788257,15.195023,0 108.788267,15.195025,0 108.788301,15.195032,0 108.788411,15.195054,0 108.788488,15.195069,0 108.788656,15.195103,0 108.788782,15.195128,0 108.788943,15.195161,0 108.789125,15.195197,0 108.789305,15.195233,0 108.789316,15.195235,0 108.789514,15.195275,0 108.789666,15.195306,0 108.78968,15.195309,0 108.789781,15.195329,0 108.789855,15.195344,0 108.789894,15.195351,0 108.789915,15.195356,0 108.790103,15.195394,0 108.790266,15.195426,0 108.790284,15.19543,0 108.790293,15.195432,0 108.790401,15.195453,0 108.790571,15.195487,0 108.790766,15.195527,0 108.790948,15.195563,0 108.790968,15.195567,0 108.791076,15.195589,0 108.791082,15.19559,0 108.791245,15.195623,0 108.791255,15.195625,0 108.791407,15.195655,0 108.7915,15.195674,0 108.791547,15.195683,0 108.791677,15.19571,0 108.791806,15.195735,0 108.791954,15.195765,0 108.792024,15.195779,0 108.792205,15.195815,0 108.79237,15.195849,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Line Features</name>
+		<Placemark>
+			<name>Polyline_000</name>
+			<description>Level 13</description>
+			<styleUrl>#line-0000FF-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782676,15.181144,0 108.782798,15.181107,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>Level 10</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782747,15.181348,0 108.782958,15.181281,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>Level 10</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782385,15.181175,0 108.782891,15.181023,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>Level 10</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782676,15.181362,0 108.782747,15.181348,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>Level 10</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782434,15.181428,0 108.782676,15.181362,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Text and Point Features</name>
+		<Placemark>
+			<name>ONT+BHK</name>
+			<description>Level 2</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>108.782687,15.181141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>455</name>
+			<description>Level 13</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>108.782756,15.181144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1697,5</name>
+			<description>Level 4</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>108.782758,15.181095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bùi Văn Châu</name>
+			<description>Level 53</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>108.782786,15.181213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thôn Phong Niên Thượng</name>
+			<description>Level 56</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>108.78273,15.181201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ONT+BHK</name>
+			<description>Level 54</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>108.782789,15.181224,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Polily Features</name>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>Level 10</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782891,15.181023,0 108.782945,15.181224,0 108.782958,15.181281,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Polyline_001</name>
+			<description>Level 10</description>
+			<styleUrl>#line-FFFF00-1000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					108.782385,15.181175,0 108.782418,15.181376,0 108.782434,15.181428,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
